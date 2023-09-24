@@ -1,0 +1,33 @@
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.csproj.AssemblyReference.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.AssemblyInfoInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.AssemblyInfo.cs
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.csproj.CoreCompileInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Calculate number of inversions in array.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Calculate number of inversions in array.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Calculate number of inversions in array.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Calculate number of inversions in array.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Calculate number of inversions in array.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\nunit.framework.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.csproj.CopyComplete
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\refint\Calculate number of inversions in array.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\Calculate number of inversions in array.genruntimeconfig.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\obj\Debug\net6.0\ref\Calculate number of inversions in array.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Calculate number of inversions in array\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

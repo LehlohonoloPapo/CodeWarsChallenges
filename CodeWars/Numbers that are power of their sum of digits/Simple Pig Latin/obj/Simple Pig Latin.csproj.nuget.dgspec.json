@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\Simple Pig Latin.csproj": {}
+  },
+  "projects": {
+    "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\Simple Pig Latin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\Simple Pig Latin.csproj",
+        "projectName": "Simple Pig Latin",
+        "projectPath": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\Simple Pig Latin.csproj",
+        "packagesPath": "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lehlohonolo.papo.DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DEV\\Brightrock\\Life.Policy.SVN\\src\\packages\\CorpServ.Oce.Api.1.0.0.8\\lib\\net45": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

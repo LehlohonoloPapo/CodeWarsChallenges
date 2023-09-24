@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gvNm//L7i5yGhAepbNKdRnpCK2SmY2Wz0rPYPmGumvxBRnw6hIH4VzTImKp11gViVzfyAw+LRRe1wuJI1qWvw==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Simple Pig Latin\\Simple Pig Latin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

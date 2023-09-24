@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2zCkYY1xt4b/Bf6vB8Nbprzucn5QqcBJY/cqZ+R+DNH9ajSlhlG9vI+SBOixwCVR4SHKolHC1uEO8TZ5eKTqA==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Numbers that are power of their sum of digits\\Numbers that are power of their sum of digits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

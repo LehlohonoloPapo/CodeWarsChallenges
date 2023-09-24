@@ -1,0 +1,15 @@
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\bin\Debug\net6.0\Scramblies.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\bin\Debug\net6.0\Scramblies.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\bin\Debug\net6.0\Scramblies.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\bin\Debug\net6.0\Scramblies.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\bin\Debug\net6.0\Scramblies.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.csproj.AssemblyReference.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.AssemblyInfoInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.AssemblyInfo.cs
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.csproj.CoreCompileInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\refint\Scramblies.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\Scramblies.genruntimeconfig.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Scramblies\obj\Debug\net6.0\ref\Scramblies.dll

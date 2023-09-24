@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2qSdyzUo+U3xWlUwl6go84krZ/t7NDQzwZ2PnHCJlNiI3J0llIOOH+d2MUuwuJkXh2i8OD2JLbtvBKqFiNgaQ==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\CodeWars\\Numbers that are power of their sum of digits\\Calculate number of inversions in array\\Calculate number of inversions in array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\lehlohonolo.papo.DEV\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

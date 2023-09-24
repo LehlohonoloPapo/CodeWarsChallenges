@@ -1,0 +1,17 @@
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.csproj.AssemblyReference.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.AssemblyInfoInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.AssemblyInfo.cs
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.csproj.CoreCompileInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\Simple Pig Latin.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\Simple Pig Latin.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\Simple Pig Latin.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\Simple Pig Latin.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\Simple Pig Latin.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\bin\Release\net6.0\nunit.framework.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.csproj.CopyComplete
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\refint\Simple Pig Latin.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\Simple Pig Latin.genruntimeconfig.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Simple Pig Latin\obj\Release\net6.0\ref\Simple Pig Latin.dll

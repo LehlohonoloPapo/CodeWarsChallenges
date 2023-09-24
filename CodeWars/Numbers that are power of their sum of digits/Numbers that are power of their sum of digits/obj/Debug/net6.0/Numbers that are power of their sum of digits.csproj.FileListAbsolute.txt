@@ -1,0 +1,22 @@
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.csproj.AssemblyReference.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.AssemblyInfoInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.AssemblyInfo.cs
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.csproj.CoreCompileInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Numbers that are power of their sum of digits.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Numbers that are power of their sum of digits.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Numbers that are power of their sum of digits.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Numbers that are power of their sum of digits.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Numbers that are power of their sum of digits.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\refint\Numbers that are power of their sum of digits.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.genruntimeconfig.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\ref\Numbers that are power of their sum of digits.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Simple Pig Latin.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Simple Pig Latin.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Simple Pig Latin.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\nunit.framework.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Simple Pig Latin.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\bin\Debug\net6.0\Simple Pig Latin.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\Numbers that are power of their sum of digits\obj\Debug\net6.0\Numbers that are power of their sum of digits.csproj.CopyComplete

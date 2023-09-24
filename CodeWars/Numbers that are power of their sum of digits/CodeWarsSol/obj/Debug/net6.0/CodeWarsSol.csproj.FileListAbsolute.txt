@@ -1,0 +1,15 @@
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\bin\Debug\net6.0\CodeWarsSol.exe
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\bin\Debug\net6.0\CodeWarsSol.deps.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\bin\Debug\net6.0\CodeWarsSol.runtimeconfig.json
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\bin\Debug\net6.0\CodeWarsSol.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\bin\Debug\net6.0\CodeWarsSol.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.csproj.AssemblyReference.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.AssemblyInfoInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.AssemblyInfo.cs
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.csproj.CoreCompileInputs.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\refint\CodeWarsSol.dll
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.pdb
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\CodeWarsSol.genruntimeconfig.cache
+D:\DEV\CodeWars\Numbers that are power of their sum of digits\CodeWarsSol\obj\Debug\net6.0\ref\CodeWarsSol.dll
